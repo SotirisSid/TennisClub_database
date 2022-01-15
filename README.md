@@ -1,7 +1,7 @@
 # TennisClub_database
 A python application that uses a tennis club database to make reservations
 
-There is a menu function that displays all the available choices a user has
+There is a menu function that displays all the available choices a user has \n
 You can register as a member in the database (as a subscriber or as a guest)
 You can register an instructor
 You can make a reservation 
