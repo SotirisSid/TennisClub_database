@@ -300,7 +300,6 @@ def register_to_tournament(mode):
             print("Το επίπεδο σας ειναι μικροτερο απο το επιτρεπτό")
         
 
-## to ftiaxnw aurio
 
 def kratisi_menu(): #Σε αυτό το μενού σχεδιάζονται οι επιλογές της κράτησης
     while True:
